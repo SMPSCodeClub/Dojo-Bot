@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="BasicRobotBuild-WithParts-2.svg"
+   sodipodi:docname="BasicRobotBuild-WithParts.svg"
    inkscape:export-filename="C:\Users\laurence\Desktop\DOJO-BOT\BasicSchema.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -57,9 +57,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.375"
+     inkscape:zoom="0.26516504"
      inkscape:cx="183.83628"
-     inkscape:cy="709.83023"
+     inkscape:cy="512.86706"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -86,7 +86,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g5990">
+       id="g7149">
       <rect
          y="-139.06636"
          x="-500"
@@ -409,7 +409,7 @@
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          id="path4376"
-         d="M 304.35661,600.05052 289.577,399.2597 l 54.55693,-0.0902 -14.81383,200.88101 z"
+         d="M 304.35661,600.05052 289.577,399.2597 344.13393,399.1695 329.3201,600.05051 Z"
          style="fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.11028898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.33086686, 3.33086686;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
          ry="15"
@@ -784,68 +784,61 @@
            x="539.38245"
            id="tspan6082-5"
            sodipodi:role="line">WHEEL</tspan></text>
+      <rect
+         transform="scale(-1,-1)"
+         y="-925.4527"
+         x="-65.927734"
+         height="135.3676"
+         width="96.796181"
+         id="rect4136-1-8-2-8"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         transform="matrix(0,-1,1,0,0,0)"
+         y="-57.919083"
+         x="-854.88611"
+         height="27.234468"
+         width="27.234468"
+         id="rect4216-0-2-6-0"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         transform="matrix(0,-1,1,0,0,0)"
+         y="-57.919083"
+         x="-887.88611"
+         height="27.234468"
+         width="27.234468"
+         id="rect4216-05-7-7-3"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         transform="matrix(0,-1,1,0,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4138-2-4-6"
+         y="-2.4050293"
+         x="-858.5929"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         xml:space="preserve"><tspan
+           id="tspan7112"
+           sodipodi:role="line">2 x AAA</tspan><tspan
+           id="tspan7114"
+           sodipodi:role="line">Battery</tspan><tspan
+           id="tspan7116"
+           sodipodi:role="line">Holder</tspan></text>
       <g
-         transform="translate(-114,0)"
-         id="g5266">
-        <rect
-           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect4136-1-8-2-8"
-           width="96.796181"
-           height="135.3676"
-           x="-179.92773"
-           y="-925.4527"
-           transform="scale(-1,-1)" />
-        <rect
-           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect4216-0-2-6-0"
-           width="27.234468"
-           height="27.234468"
-           x="-854.88611"
-           y="56.080917"
-           transform="matrix(0,-1,1,0,0,0)" />
-        <rect
-           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect4216-05-7-7-3"
-           width="27.234468"
-           height="27.234468"
-           x="-887.88611"
-           y="56.080917"
-           transform="matrix(0,-1,1,0,0,0)" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="-858.5929"
-           y="111.59497"
-           id="text4138-2-4-6"
-           sodipodi:linespacing="125%"
-           transform="matrix(0,-1,1,0,0,0)"><tspan
-             sodipodi:role="line"
-             id="tspan5535"
-             x="-858.5929"
-             y="111.59497">2 x AA</tspan><tspan
-             sodipodi:role="line"
-             id="tspan5537"
-             x="-858.5929"
-             y="139.71997">Battery</tspan><tspan
-             sodipodi:role="line"
-             id="tspan5539"
-             x="-858.5929"
-             y="167.84497">Holder</tspan></text>
+         id="g7118">
         <circle
            style="opacity:1;fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="path4321"
-           cx="85.350151"
-           cy="928.40723"
+           cx="-32.649849"
+           cy="932.40723"
            r="25" />
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;line-height:125%;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="74.53228"
-           y="941.50659"
+           x="-43.46772"
+           y="945.50659"
            id="text4323"
            sodipodi:linespacing="125%"><tspan
-             y="941.50659"
-             x="74.53228"
+             y="945.50659"
+             x="-43.46772"
              sodipodi:role="line"
              id="tspan4408">2</tspan></text>
       </g>
@@ -1187,34 +1180,34 @@
          sodipodi:linespacing="125%"
          id="text4628"
          y="-86.883972"
-         x="-416.55307"
+         x="-422.55307"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
          xml:space="preserve"><tspan
-           id="tspan5964"
-           sodipodi:role="line">1. 1x Micro:Bit</tspan><tspan
-           id="tspan5966"
-           sodipodi:role="line">2. 1x Microbit Battery Holder</tspan><tspan
-           id="tspan5968"
-           sodipodi:role="line">       (2x AA with JST connector)</tspan><tspan
-           id="tspan5970"
-           sodipodi:role="line">3. 1x Microbit Edge Connector</tspan><tspan
-           id="tspan5972"
-           sodipodi:role="line">4. 1x Motor Controller (L9110S)</tspan><tspan
-           id="tspan5974"
-           sodipodi:role="line">5. 2x Micro Metalgear Motors</tspan><tspan
-           id="tspan5976"
-           sodipodi:role="line">6. 2x Buggy Wheels</tspan><tspan
-           id="tspan5978"
-           sodipodi:role="line">7. 2x Motor Brackets with nuts/bolts </tspan><tspan
-           id="tspan5980"
-           sodipodi:role="line">8. 1x Ball Caster 3/4&quot; with nuts/bolts</tspan><tspan
-           id="tspan5982"
-           sodipodi:role="line">9. 1x Motor Battery Holder</tspan><tspan
-           id="tspan5984"
-           sodipodi:role="line">       (4x AA)</tspan><tspan
-           id="tspan5986"
-           sodipodi:role="line">10. Terminal Block</tspan><tspan
-           id="tspan5988"
+           id="tspan7123"
+           sodipodi:role="line">1.  1x Micro:Bit</tspan><tspan
+           id="tspan7125"
+           sodipodi:role="line">2.  1x Microbit Battery Holder</tspan><tspan
+           id="tspan7127"
+           sodipodi:role="line">        (2x AAA with JST connector)</tspan><tspan
+           id="tspan7129"
+           sodipodi:role="line">3.  1x Microbit Edge Connector</tspan><tspan
+           id="tspan7131"
+           sodipodi:role="line">4.  1x Motor Controller (L9110S)</tspan><tspan
+           id="tspan7133"
+           sodipodi:role="line">5.  2x Micro Metalgear Motors</tspan><tspan
+           id="tspan7135"
+           sodipodi:role="line">6.  2x Buggy Wheels</tspan><tspan
+           id="tspan7137"
+           sodipodi:role="line">7.  2x Motor Brackets with nuts/bolts </tspan><tspan
+           id="tspan7139"
+           sodipodi:role="line">8.  1x Ball Caster 3/4&quot; with nuts/bolts</tspan><tspan
+           id="tspan7141"
+           sodipodi:role="line">9.  1x Motor Battery Holder</tspan><tspan
+           id="tspan7143"
+           sodipodi:role="line">        (4x AA)</tspan><tspan
+           id="tspan7145"
+           sodipodi:role="line">10. 1x Terminal Block</tspan><tspan
+           id="tspan7147"
            sodipodi:role="line">Jumper Wires (7x M-F, 4x F-F)</tspan></text>
       <circle
          r="25"
@@ -1381,13 +1374,15 @@
            transform="matrix(0,-1,1,0,0,0)" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="151.94852"
            y="581.72858"
            id="text4225-8"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
-             id="tspan5709">0V</tspan></text>
+             id="tspan5709"
+             x="151.94852"
+             y="581.72858">0V</tspan></text>
       </g>
       <path
          sodipodi:nodetypes="cc"
